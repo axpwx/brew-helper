@@ -13,7 +13,7 @@
 ### 📦 使用方法
 
 ```bash
-curl -fsSL https://github.com/axpwx/brew-helper/raw/main/brew_tahoe_compat_check.sh | bash
+curl -OL https://github.com/axpwx/brew-helper/raw/main/brew_tahoe_compat_check.sh && chmod +x brew_tahoe_compat_check.sh && ./brew_tahoe_compat_check.sh
 ```
 
 ### ⚠️ 注意事项
@@ -36,7 +36,7 @@ This is a compatibility checking tool for verifying whether your installed Homeb
 ### 📦 Usage
 
 ```bash
-curl -fsSL https://github.com/axpwx/brew-helper/raw/main/brew_tahoe_compat_check.sh | bash
+curl -OL https://github.com/axpwx/brew-helper/raw/main/brew_tahoe_compat_check.sh && chmod +x brew_tahoe_compat_check.sh && ./brew_tahoe_compat_check.sh
 ```
 
 ### ⚠️ Important Notes
